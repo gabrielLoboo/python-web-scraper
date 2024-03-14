@@ -9,17 +9,20 @@
     {
       "name": "Rubber Duck MK Ultra - Original",
       "current-price": 12.68,
-      "old-price": 16.98
+      "old-price": 16.98,
+      "available": true
     },
     {
       "name": "Rubber Duck MK Ultra - Summer Version",
       "current-price": null,
-      "old-price": null
+      "old-price": null,
+      "available": false
     },
     {
       "name": "Rubber Duck MK Ultra - Batman Version",
       "current-price": 18.98,
-      "old-price": null
+      "old-price": null,
+      "available": true
     }
   ],
   "properties": [
@@ -50,6 +53,26 @@
     {
       "label": "Warranty",
       "value": "1 year"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Louisa Eliel",
+      "date": "28/07/2021",
+      "text": "Very good rubber ducks, however I think they are a bit too big for me.",
+      "score": 4
+    },
+    {
+      "name": "Kairo Josué",
+      "date": "12/05/2021",
+      "text": "Péssima qualidade. Já não fazem patos de borracha como antigamente.",
+      "score": 1
+    },
+    {
+      "name": "Victor Huey",
+      "date": "03/04/2021",
+      "text": "Very good",
+      "score": 5
     }
   ],
   "title": "Rubber Duck MK Ultra",
